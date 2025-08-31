@@ -35,11 +35,11 @@ Region plays a moderate role, while sex has minimal effect.
 Charges are highly right-skewed, but log transformation normalizes them.
 
 ### Tech Stack
-Python
-Pandas
-NumPy
-Matplotlib & Seaborn
-Google Colab 
+Python,
+Pandas,
+NumPy,
+Matplotlib & Seaborn,
+Google Colab
 
 ### Google Colab link
 https://drive.google.com/drive/folders/1sgZfi-YWc9ntfHBghl5L6UoNdmt-wLvg?usp=sharing
