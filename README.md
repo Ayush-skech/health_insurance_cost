@@ -39,4 +39,7 @@ Python
 Pandas
 NumPy
 Matplotlib & Seaborn
-Google Colab
+Google Colab 
+
+### Google Colab link
+https://drive.google.com/drive/folders/1sgZfi-YWc9ntfHBghl5L6UoNdmt-wLvg?usp=sharing
